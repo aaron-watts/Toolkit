@@ -18,5 +18,6 @@ Filetypes: 'txt' (.txt always included)
 EXAMPLE:
 findterm "jquery"
 findterm "jquery" ~/WebDev/Learning
+findterm "jquery" ~/WebDev/Learning .js .html .css
 ```
 
